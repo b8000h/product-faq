@@ -1,0 +1,9 @@
+app/code/local/Kuzman
+app/design/adminhtml/default/default/layout/kuzman
+app/design/adminhtml/default/default/template/kuzman
+app/design/frontend/base/default/layout/kuzman
+app/design/frontend/base/default/template/kuzman
+app/etc/modules/Kuzman_ProductFaq.xml
+app/local/en_US/Kuzman_ProductFaq.csv
+js/kuzman
+skin/frontend/base/default/kuzman
